@@ -30,4 +30,5 @@ The `assets/` folder is included with extra subfolders: images, sounds, fonts.
 
 p5.js Documentation  
 https://p5js.org/reference/
-sdsa
+
+---
